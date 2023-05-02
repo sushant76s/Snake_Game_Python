@@ -1,5 +1,4 @@
 # Snake_Game_Python
 Snake game in python.
 
-
-![result-image](https://user-images.githubusercontent.com/60610128/235617261-b48b8edc-5f63-4ae9-afe5-75cae129f586.jpg)
+![210334470-1ccae20a-8368-46a2-86ee-69b0d230fd7f](https://user-images.githubusercontent.com/60610128/235617454-d401d4bb-3340-4854-a9da-628ffe9aa0a8.gif)
